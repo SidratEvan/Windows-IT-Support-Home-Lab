@@ -1,0 +1,9 @@
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Editors
+.vscode/
