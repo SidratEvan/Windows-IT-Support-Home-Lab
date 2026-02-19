@@ -1,42 +1,102 @@
-# \# Windows IT Support Home Lab
+\# Windows IT Support Home Lab
 
-# 
 
-# A hands-on Windows desktop support lab that demonstrates troubleshooting workflows, incident documentation, and basic networking diagnostics.
 
-# 
+A hands-on Windows desktop support lab demonstrating structured troubleshooting workflows, incident documentation, and network diagnostics in a simulated enterprise environment.
 
-# \## What this repo shows
 
-# \- Desktop support troubleshooting (Windows 10/11)
 
-# \- Microsoft Office / common app support scenarios
+---
 
-# \- IP and DNS troubleshooting basics
 
-# \- Clear incident reports and documentation
 
-# 
+\## Skills Demonstrated
 
-# \## Repo structure
 
-# \- incident-reports/ (ticket-style writeups)
 
-# \- docs/ (checklists, procedures)
+\- Windows 10/11 troubleshooting
 
-# \- scripts/ (PowerShell helper scripts)
+\- Microsoft Office support scenarios
 
-# \- screenshots/ (evidence for steps taken)
+\- TCP/IP and DNS troubleshooting
 
-# 
+\- Incident documentation and reporting
 
-# \## How to use
+\- PowerShell diagnostics scripting
 
-# 1\. Read an incident report in incident-reports/
+\- Log analysis using Event Viewer
 
-# 2\. Follow the steps and check screenshots for proof
+\- Structured Git version control
 
-# 3\. Use scripts in scripts/ to gather diagnostics
+
+
+---
+
+
+
+\## Repository Structure
+
+
+
+incident-reports/  
+
+→ Realistic IT ticket-style incident reports
+
+
+
+docs/  
+
+→ Generated diagnostic reports and documentation
+
+
+
+scripts/  
+
+→ PowerShell troubleshooting scripts
+
+
+
+screenshots/  
+
+→ Evidence collected during troubleshooting
+
+
+
+---
+
+
+
+\## Sample Incident
+
+
+
+INC-001 – Outlook Email Failure  
+
+Simulated user issue involving DNS misconfiguration and connectivity troubleshooting. Includes full report, diagnostic logs, and visual evidence.
+
+
+
+---
+
+
+
+\## Purpose
+
+
+
+This project simulates real-world IT support workflows and demonstrates the ability to:
+
+
+
+\- Identify and document issues clearly
+
+\- Perform structured troubleshooting
+
+\- Collect diagnostic evidence
+
+\- Determine root cause
+
+\- Implement resolution steps
 
 
 
