@@ -52,15 +52,15 @@ User reports that emails remain stuck in the Outbox and are not being delivered.
 
 1\. Verified internet connectivity using:
 
-&nbsp;  - ping google.com
+   - ping google.com
 
-&nbsp;  - Confirmed successful response
+   - Confirmed successful response
 
 
 
 2\. Checked Outlook status:
 
-&nbsp;  - Confirmed not in "Work Offline" mode
+   - Confirmed not in "Work Offline" mode
 
 
 
@@ -74,7 +74,7 @@ User reports that emails remain stuck in the Outbox and are not being delivered.
 
 5\. Checked DNS resolution using:
 
-&nbsp;  - nslookup outlook.office365.com
+   - nslookup outlook.office365.com
 
 
 
@@ -111,6 +111,16 @@ Email functionality restored.
 \## Status
 
 Resolved
+
+
+
+\## Evidence Collected
+
+\- Network diagnostics output: ../docs/Network-Diagnostics-Report.txt
+
+\- Screenshot: ipconfig /all output: ../screenshots/ipconfig-output.png
+
+\- Screenshot: Event Viewer System log: ../screenshots/event-viewer-log.png
 
 
 
