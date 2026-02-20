@@ -1,4 +1,4 @@
-\# Windows IT Support Home Lab
+# Windows IT Support Home Lab
 
 
 
@@ -10,7 +10,7 @@ A hands-on Windows desktop support lab demonstrating structured troubleshooting 
 
 
 
-\## Skills Demonstrated
+## Skills Demonstrated
 
 
 
@@ -34,7 +34,7 @@ A hands-on Windows desktop support lab demonstrating structured troubleshooting 
 
 
 
-\## Repository Structure
+## Repository Structure
 
 
 
@@ -66,7 +66,7 @@ screenshots/
 
 
 
-\## Sample Incident
+## Sample Incident
 
 
 
@@ -80,7 +80,7 @@ Simulated user issue involving DNS misconfiguration and connectivity troubleshoo
 
 
 
-\## Purpose
+## Purpose
 
 
 
